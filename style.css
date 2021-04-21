@@ -1,3 +1,5 @@
+<style>
+
 body{
   display:flex;
   flex-direction: column;
@@ -216,3 +218,5 @@ a{
   margin-top: 1%;
   margin-bottom: 1%;
 }
+
+</style>
