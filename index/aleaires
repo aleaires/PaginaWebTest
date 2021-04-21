@@ -1,7 +1,13 @@
 <!--Tribute page for Dr. Norman Borlaug-->
-test
 
-<Style>
+<!DOCTYPE HTML>
+
+<html>
+
+<Head>
+  <Title Id="Title"> Dr. Norman Borlaug </Title>
+  
+  <Style>
 
 .container{
   background-color: hsl(62, 5%, 92%);
@@ -61,8 +67,6 @@ h3{
 }
 </Style>
 
-<Head>
-  <Title Id="Title"> Dr. Norman Borlaug </Title>
 </head>
 <body>
   <main>
@@ -123,3 +127,5 @@ h3{
   </div>
   </main>
 </body>
+
+<html>
